@@ -1,5 +1,5 @@
 {
-  "name": "todolist-v1",
+  "name": "newsletter-signup",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "description": "",
   "dependencies": {
     "body-parser": "^1.20.2",
-    "ejs": "^3.1.10",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "request": "^2.88.2"
   }
 }
